@@ -1,5 +1,7 @@
 ## Welcome to the Waterford School Robotics Team GitHub Organization.
 
+Waterford School is a private K-12 school in Sandy, Utah.  We have two FRC teams.  3245 is our team of veteran robotics students.  3166 is a team of rookies.
+
 <!--
 
 **Here are some ideas to get you started:**
